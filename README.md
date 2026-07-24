@@ -63,7 +63,7 @@ Archivo: `data/sobregiros.db` (SQLite)
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/sobregiros-monitoreo.git
+git clone https://github.com/salemcorps/sobregiros-monitoreo.git
 cd sobregiros-monitoreo
 
 # 2. Crear y activar el ambiente virtual
