@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+venv/
+__pycache__/
+*.pyc
+*.db        # opcional: si no quieres subir el .db al repo
+.env
