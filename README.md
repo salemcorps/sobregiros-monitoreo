@@ -129,6 +129,6 @@ pytest
 
 ## Autor
 
-**[Tu nombre]**  
+**[Juan Andrés Valdés Ramírez]**  
 Prueba técnico-funcional — Análisis de datos  
-[tu@email.com]
+[juanexbmth@gmail.com]
