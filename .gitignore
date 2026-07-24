@@ -220,5 +220,5 @@ __marimo__/
 venv/
 __pycache__/
 *.pyc
-*.db        # opcional: si no quieres subir el .db al repo
+*.db
 .env
