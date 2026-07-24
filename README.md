@@ -112,7 +112,7 @@ pytest
 | 2 | Diseño funcional (To Be) | `actividad-2-diseno` | ✅ Completo |
 | 3 | Modelamiento de datos | `actividad-3-modelamiento` | ✅ Completo |
 | 4 | Visualización | `actividad-4-visualizacion` | ✅ Completo |
-| 5 | Cierre ejecutivo | `actividad-5-ejecutivo` | ⏳ Pendiente |
+| 5 | Cierre ejecutivo | `actividad-5-ejecutivo` | ✅ Completo |
 
 ---
 
