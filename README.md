@@ -111,7 +111,7 @@ pytest
 | 1 | Análisis del problema (As Is) | `actividad-1-analisis` | ✅ Completo |
 | 2 | Diseño funcional (To Be) | `actividad-2-diseno` | ✅ Completo |
 | 3 | Modelamiento de datos | `actividad-3-modelamiento` | ✅ Completo |
-| 4 | Visualización | `actividad-4-visualizacion` | ⏳ Pendiente |
+| 4 | Visualización | `actividad-4-visualizacion` | ✅ Completo |
 | 5 | Cierre ejecutivo | `actividad-5-ejecutivo` | ⏳ Pendiente |
 
 ---
